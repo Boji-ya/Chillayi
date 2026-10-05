@@ -1,0 +1,79 @@
+name: explore_chiayi
+description: 探索嘉義之旅 - Smart Travel Guide App for Chiayi
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  geolocator: ^13.0.1
+  permission_handler: ^11.3.1
+  # Firebase
+  firebase_core: ^4.0.0
+  firebase_auth: ^6.0.0
+  cloud_firestore: 6.4.1
+  firebase_storage: ^13.4.1
+
+  # State Management
+  provider: ^6.1.1
+
+  # HTTP & API
+  http: ^1.2.0
+
+  # UI
+  image_picker: ^1.1.2
+  cached_network_image: ^3.3.1
+  flutter_svg: ^2.0.9
+  shimmer: ^3.0.0
+  carousel_slider: ^5.1.1
+  flutter_staggered_grid_view: ^0.7.0
+
+  # OSM Map
+  flutter_map: ^7.0.2
+  latlong2: ^0.9.1
+  flutter_map_marker_cluster: ^1.3.2
+
+  # Utils
+  shared_preferences: ^2.2.2
+  intl: ^0.19.0
+  url_launcher: ^6.2.4
+  google_fonts: ^6.1.0
+
+  cupertino_icons: ^1.0.2
+  material: ^1.0.1
+  path_provider: ^2.1.5
+  google_generative_ai: ^0.4.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/turkey.png
+    - images/profile.jpg
+    - assets/data/seed_data.json
+    - images/aipic.jpg
+    - images/welcomepage.jpg
+    - images/aiicon.png
+    - images/communityicon.png
+    - images/homeicon.png
+    - images/mapicon.png
+    - images/profileicon.png
+    - images/accomodation.png
+    - images/attractionicon.png
+    - images/busicon.png
+    - images/eventsicon.png
+    - images/resticon.png
+    - images/tea.jpg
+    - images/cafe.jpg
+    - images/noodles_0.jpg
+    - images/turckey_rice.jpg

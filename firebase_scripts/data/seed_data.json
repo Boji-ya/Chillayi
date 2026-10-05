@@ -1,0 +1,257 @@
+{
+  "places": [
+    {
+      "name": "檜意森活村",
+      "nameEn": "Hinoki Village",
+      "description": "日治時期林業宿舍改建的文創聚落，28棟百年檜木建築保存完好，融合文創商店、餐廳與展覽，感受嘉義林業歷史的最佳場所。",
+      "imageUrl": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=800",
+      "location": "嘉義市東區林森東路2號",
+      "category": "attraction",
+      "rating": 4.6,
+      "tags": ["文創", "日式", "歷史", "建築", "購物"],
+      "lat": 23.4801,
+      "lng": 120.4571
+    },
+    {
+      "name": "文化路夜市",
+      "nameEn": "Wenhua Road Night Market",
+      "description": "嘉義最著名的夜市，長達600公尺的攤販街，聚集火雞肉飯、砂鍋魚頭、雞蛋布丁等在地小吃，是感受嘉義夜生活的必訪之地。",
+      "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800",
+      "location": "嘉義市西區文化路",
+      "category": "attraction",
+      "rating": 4.5,
+      "tags": ["夜市", "小吃", "美食", "夜生活"],
+      "lat": 23.4778,
+      "lng": 120.4496
+    },
+    {
+      "name": "嘉義公園",
+      "nameEn": "Chiayi Park",
+      "description": "市區最大的公園，園內有射日塔、孔廟、昭忠塔等歷史建築，四季花卉盛開，是市民休閒散步的好去處。",
+      "imageUrl": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=800",
+      "location": "嘉義市東區公園街42號",
+      "category": "attraction",
+      "rating": 4.3,
+      "tags": ["公園", "歷史", "散步", "拍照"],
+      "lat": 23.4833,
+      "lng": 120.4527
+    }
+
+  ],
+  "restaurants": [
+    {
+      "name": "噴水火雞肉飯",
+      "nameEn": "Fountain Turkey Rice",
+      "description": "嘉義最知名的火雞肉飯老店，創立於民國60年代，使用新鮮火雞肉搭配特製油蔥醬汁，香氣四溢，每日限量供應。",
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800",
+      "location": "嘉義市西區中山路361號",
+      "category": "restaurant",
+      "rating": 4.7,
+      "tags": ["火雞肉飯", "老店", "在地美食", "平價"],
+      "lat": 23.4789,
+      "lng": 120.4408
+    },
+    {
+      "name": "劉里長雞肉飯",
+      "nameEn": "Liu Village Chief Chicken Rice",
+      "description": "創業超過50年的老字號雞肉飯專賣店，以溫體土雞肉搭配特調滷汁，口感鮮嫩多汁，是嘉義人從小吃到大的家鄉味。",
+      "imageUrl": "https://images.unsplash.com/photo-1569050467447-ce54b3bbc37d?w=800",
+      "location": "嘉義市西區中正路361號",
+      "category": "restaurant",
+      "rating": 4.6,
+      "tags": ["雞肉飯", "老字號", "在地", "必吃"],
+      "lat": 23.4765,
+      "lng": 120.4398
+    },
+    {
+      "name": "砂鍋魚頭",
+      "nameEn": "Clay Pot Fish Head",
+      "description": "嘉義傳統砂鍋料理名店，以大頭鰱魚頭搭配豬血糕、豆腐、白菜等食材慢燉，湯頭濃郁鮮甜，冬天來一鍋暖胃又暖心。",
+      "imageUrl": "https://images.unsplash.com/photo-1547592180-85f173990554?w=800",
+      "location": "嘉義市東區仁愛路100號",
+      "category": "restaurant",
+      "rating": 4.4,
+      "tags": ["砂鍋", "海鮮", "傳統", "熱湯"],
+      "lat": 23.4820,
+      "lng": 120.4533
+    },
+    {
+      "name": "東市場蔡記肉燥飯",
+      "nameEn": "East Market Braised Pork Rice",
+      "description": "嘉義東市場百年老攤，肉燥以五花肉慢滷6小時以上，油脂甘甜不膩，澆在白飯上香氣撲鼻，是嘉義人早餐的第一選擇。",
+      "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=800",
+      "location": "嘉義市東區成仁街135號",
+      "category": "restaurant",
+      "rating": 4.6,
+      "tags": ["肉燥飯", "市場", "早餐", "百年老店"],
+      "lat": 23.4798,
+      "lng": 120.4580
+    },
+    {
+      "name": "阿娥豆花",
+      "nameEn": "A-E Tofu Pudding",
+      "description": "嘉義在地知名甜品店，以石磨黃豆製成的傳統豆花，搭配花生、紅豆、芋圓等配料，口感嫩滑清甜，是夏日消暑聖品。",
+      "imageUrl": "https://images.unsplash.com/photo-1548391350-968f58dedaed?w=800",
+      "location": "嘉義市西區新榮路139號",
+      "category": "restaurant",
+      "rating": 4.4,
+      "tags": ["豆花", "甜品", "傳統", "消暑"],
+      "lat": 23.4756,
+      "lng": 120.4378
+    }
+  ],
+  "hotels": [
+    {
+      "name": "耐斯王子大飯店",
+      "nameEn": "The Place Chiayi Hotel",
+      "description": "嘉義市五星級旗艦飯店，擁有300間豪華客房，設施包含露天游泳池、SPA中心、多國料理餐廳，距嘉義高鐵站僅15分鐘車程。",
+      "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "location": "嘉義市西區世賢路二段366號",
+      "category": "hotel",
+      "rating": 4.6,
+      "tags": ["五星", "豪華", "游泳池", "SPA"],
+      "lat": 23.4698,
+      "lng": 120.4321
+    },
+    {
+      "name": "嘉義長榮文苑酒店",
+      "nameEn": "Evergreen Laurel Hotel Chiayi",
+      "description": "國際連鎖五星飯店，優雅典致的客房設計結合現代科技，行政樓層附設景觀酒廊，俯瞰嘉義市全景，商務休閒兩相宜。",
+      "imageUrl": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800",
+      "location": "嘉義市東區中山路235號",
+      "category": "hotel",
+      "rating": 4.5,
+      "tags": ["五星", "國際連鎖", "商務", "景觀"],
+      "lat": 23.4801,
+      "lng": 120.4489
+    },
+    {
+      "name": "嘉義商旅",
+      "nameEn": "Chiayi Business Hotel",
+      "description": "位於市中心的精品商旅，步行可達文化路夜市與主要景點，房間設計簡約時尚，提供免費早餐與自行車租借服務。",
+      "imageUrl": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800",
+      "location": "嘉義市西區中正路188號",
+      "category": "hotel",
+      "rating": 4.2,
+      "tags": ["商旅", "市中心", "平價", "早餐"],
+      "lat": 23.4760,
+      "lng": 120.4435
+    },
+
+    {
+      "name": "嘉義驛站商旅",
+      "nameEn": "Chiayi Station Hotel",
+      "description": "緊鄰嘉義火車站，交通最便利的住宿選擇，簡潔現代的房間設計，提供24小時接送服務，適合短期旅遊和轉運旅客。",
+      "imageUrl": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=800",
+      "location": "嘉義市西區中山路492號",
+      "category": "hotel",
+      "rating": 4.0,
+      "tags": ["火車站", "交通便利", "商旅", "轉運"],
+      "lat": 23.4793,
+      "lng": 120.4401
+    }
+  ],
+  "events": [
+
+    {
+      "name": "嘉義國際管樂節",
+      "nameEn": "Chiayi International Band Festival",
+      "description": "每年12月舉辦的國際音樂盛事，來自30多個國家的管樂團在嘉義街頭演出，免費入場，展現嘉義音樂之都的文化底蘊。",
+      "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800",
+      "location": "嘉義市文化公園廣場",
+      "category": "event",
+      "rating": 4.7,
+      "tags": ["音樂", "管樂", "國際", "免費"],
+      "lat": 23.4833,
+      "lng": 120.4530
+    },
+    {
+      "name": "嘉義燈會",
+      "nameEn": "Chiayi Lantern Festival",
+      "description": "元宵節前後在嘉義公園盛大舉辦的燈會活動，各式精緻花燈造景配合煙火表演，歡樂氣氛吸引數十萬人次參觀。",
+      "imageUrl": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=800",
+      "location": "嘉義市嘉義公園",
+      "category": "event",
+      "rating": 4.5,
+      "tags": ["燈會", "元宵", "煙火", "節慶"],
+      "lat": 23.4833,
+      "lng": 120.4527
+    }
+
+  ],
+  "transport_stops": [
+    {
+      "name": "嘉義火車站",
+      "nameEn": "Chiayi Railway Station",
+      "description": "嘉義市區的主要交通樞紐，台鐵縱貫線重要車站，每日列車班次超過100班，可搭乘阿里山森林鐵路前往奮起湖、阿里山。",
+      "imageUrl": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800",
+      "location": "嘉義市西區中山路492號",
+      "category": "transport",
+      "rating": 4.2,
+      "tags": ["火車站", "台鐵", "阿里山鐵路", "樞紐"],
+      "lat": 23.4793,
+      "lng": 120.4401
+    },
+    {
+      "name": "嘉義客運總站",
+      "nameEn": "Chiayi Bus Terminal",
+      "description": "市區主要客運站，提供往返台北、台中、高雄及縣內各鄉鎮的長途與區域客運服務，班次密集。",
+      "imageUrl": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=800",
+      "location": "嘉義市西區中山路",
+      "category": "transport",
+      "rating": 3.9,
+      "tags": ["客運", "長途巴士", "市區交通"],
+      "lat": 23.4782,
+      "lng": 120.4395
+    },
+    {
+      "name": "YouBike 嘉義火車站",
+      "nameEn": "YouBike Chiayi Station",
+      "description": "嘉義市共享單車系統站點，緊鄰火車站出口，提供輕鬆騎乘探索市區的綠色交通方式，30分鐘內免費。",
+      "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "location": "嘉義火車站前廣場",
+      "category": "transport",
+      "rating": 4.1,
+      "tags": ["YouBike", "共享單車", "綠色交通"],
+      "lat": 23.4789,
+      "lng": 120.4409
+    }
+  ],
+  "missions": [
+    { "title": "嘉義初探者", "description": "瀏覽 3 個景點頁面", "points": 50, "type": "explore" },
+    { "title": "美食獵人", "description": "收藏 2 個以上的餐廳", "points": 100, "type": "food" },
+    { "title": "阿里山勇士", "description": "查看阿里山景點詳情", "points": 150, "type": "achievement" },
+    { "title": "地圖探索者", "description": "使用地圖功能查看景點", "points": 80, "type": "map" },
+    { "title": "交通達人", "description": "查詢即時交通資訊", "points": 60, "type": "transport" }
+  ],
+  "shops": [
+    {
+      "name": "嘉義地圖明信片組",
+      "description": "精美手繪嘉義景點明信片 5 張一組",
+      "price": 200,
+      "imageUrl": "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=400",
+      "category": "souvenir"
+    },
+    {
+      "name": "阿里山高山茶禮盒",
+      "description": "精選阿里山高山烏龍茶 50g 禮盒",
+      "price": 500,
+      "imageUrl": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=400",
+      "category": "food"
+    },
+    {
+      "name": "嘉義火雞肉飯調理包",
+      "description": "在家重現嘉義名物，2入裝",
+      "price": 350,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400",
+      "category": "food"
+    },
+    {
+      "name": "檜木香皂組",
+      "description": "採用阿里山天然檜木精油製成，3入禮盒",
+      "price": 450,
+      "imageUrl": "https://images.unsplash.com/photo-1600857062241-98e5dba7f3a8?w=400",
+      "category": "souvenir"
+    }
+  ]
+}

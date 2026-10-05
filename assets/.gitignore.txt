@@ -1,0 +1,8 @@
+# Firebase 私密金鑰（千萬不要上傳）
+serviceAccountKey.json
+
+# 備份檔（體積大，用 cloud storage 或本機保管）
+backups/
+
+# node_modules
+node_modules/
