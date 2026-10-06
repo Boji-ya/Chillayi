@@ -38,6 +38,17 @@ Chillayi 是一款以嘉義旅遊資訊為主的行動應用程式，
 
 ## 專案畫面
 
+歡迎頁:
+<img width="384" height="853" alt="welcome_page" src="https://github.com/user-attachments/assets/eb3cc8c5-0cae-46b9-b1ba-18475f2873be" />
+
+
+主頁:
+
+<img width="407" height="934" alt="home_page" src="https://github.com/user-attachments/assets/853e158e-1857-40c6-81a2-7e1c6451142c" />
+
+地圖:
+
+<img width="443" height="418" alt="map_page" src="https://github.com/user-attachments/assets/07f8b3f7-93c6-4fb1-ab24-cbc0b28dfd06" />
 
 
 
